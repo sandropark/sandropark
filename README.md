@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 [![sandro's github stats](https://github-readme-stats.vercel.app/api?username=sandropark&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sandropark)
