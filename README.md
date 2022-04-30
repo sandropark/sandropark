@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![sandro's github stats](https://github-readme-stats.vercel.app/api?username=sandropark&show_icons=true&theme=merko)
+![sandro's github stats](https://github-readme-stats.vercel.app/api?username=sandropark&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)(https://github.com/sandropark)
