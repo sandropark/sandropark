@@ -1,20 +1,15 @@
 # Hi there 👋
 
-<!--
-**sandropark/sandropark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 📚 Tech Stack 📚 </h3>
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  [![sandro's github stats](https://github-readme-stats.vercel.app/api?username=sandropark&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sandropark)
+  
+</div>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-
-[![sandro's github stats](https://github-readme-stats.vercel.app/api?username=sandropark&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sandropark)
